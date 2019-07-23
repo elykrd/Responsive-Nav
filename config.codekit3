@@ -338,8 +338,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/scss/styles.css",
-		"oF": 0,
+		"oAP": "/css/styles.css",
+		"oF": 2,
 		"oS": 0,
 		"uL": 1
 		}
@@ -350,7 +350,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 585583290.30842495,
-	"displayValue": "web2-week5-responsive-master",
+	"displayValue": "Responsive-Nav",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-kahn",
 	"iconImageWasSetByUser": 0
