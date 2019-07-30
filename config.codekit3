@@ -137,17 +137,6 @@
 		"oAP": "/index.html",
 		"oF": 0
 		},
-	"/js/scripts.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/js/scripts-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
 	"/scss/base/_base.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -350,7 +339,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 585583290.30842495,
-	"displayValue": "web2-week5-responsive-master",
+	"displayValue": "Responsive-Nav",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-kahn",
 	"iconImageWasSetByUser": 0
